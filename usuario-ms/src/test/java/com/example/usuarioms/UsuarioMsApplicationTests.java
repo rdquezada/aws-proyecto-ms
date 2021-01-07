@@ -38,7 +38,7 @@ public class UsuarioMsApplicationTests {
     //Prueba de listar todos los usuarios
     @Test
     public void test2() {
-        assertEquals(500, usuarioRepository.findAll().size());
+        assertEquals(5000, usuarioRepository.findAll().size());
         //assertThat(usuarioRepository.findAll()).hasSize(3);
     }
 
