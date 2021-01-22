@@ -36,10 +36,10 @@ public class UsuarioMsApplicationTests {
     }*/
     
     //Prueba de listar todos los usuarios
-    @Test
+    /*@Test
     public void test2() {
         assertEquals(5000, usuarioRepository.findAll().size());
         //assertThat(usuarioRepository.findAll()).hasSize(3);
-    }
+    }*/
 
 }
