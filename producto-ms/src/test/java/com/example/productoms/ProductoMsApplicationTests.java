@@ -35,10 +35,10 @@ class ProductoMsApplicationTests {
     }*/
     
     //Prueba de listar todos los productos
-    @Test
+    /*@Test
     public void test2() {
         assertEquals(5, productoRepository.findAll().size());
         //assertThat(usuarioRepository.findAll()).hasSize(3);
-    }
+    }*/
 
 }
